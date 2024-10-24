@@ -3,7 +3,7 @@ body{
     color: white;
 
 }
-<section>
+section
 { background: rgb( rgb(255, 0, 149));
 padding: top 1% ;
 padding-bottom: 1%;
@@ -14,3 +14,5 @@ justify-content: center;
 .chamada_texto{
  margin-right: 20px;
 }
+
+ 
